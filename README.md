@@ -1,2 +1,2 @@
 # StartupsCatalog
-Course project "Основы программирования на Python"
+Основы программирования на Python "Course project"
